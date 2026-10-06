@@ -19,10 +19,10 @@
 | Repositorio | Enlace | Commits |
 |---|---|---|
 | `rtm-docs` | https://github.com/code-sena/rtm-docs | 8 |
-| `{PREFIJO}-api` | https://github.com/code-sena/rtm-api | 0 * |
-| `{PREFIJO}-app` | https://github.com/code-sena/rtm-app | 0 * |
-| `{PREFIJO}-db` | https://github.com/code-sena/rtm-db | 0 * |
-| `{PREFIJO}-portal` | https://github.com/code-sena/rtm-portal | 0 * |
+| `rtm-api` | https://github.com/code-sena/rtm-api | 0  |
+| `rtm-app` | https://github.com/code-sena/rtm-app | 0  |
+| `rtm-db` | https://github.com/code-sena/rtm-db | 0 |
+| `rtm-portal` | https://github.com/code-sena/rtm-portal | 0  |
 | **Total** | | **8** |
 
 \* No se encontraron estos repositorios clonados localmente ni fue posible verificarlos en GitHub en esta revisión (sin credenciales de GitHub disponibles). Confirma manualmente en GitHub si existen y si tienen commits tuyos antes de entregar.
@@ -99,7 +99,7 @@
 
 ## 5. Observaciones
 
-*En el team solo se ha trabajado el repositorio de rtm-docs; lo demás se ha manejado con repositorios aislados al team (ver Informe 2). Los repositorios `rtm-api`, `rtm-app`, `rtm-db` y `rtm-portal` son nombres de plantilla: no se encontraron clonados localmente y no pude verificar en GitHub si existen realmente, por falta de credenciales de GitHub en el entorno donde se generó este informe. Verifícalo manualmente antes de entregar.*
+*En el team solo se ha trabajado el repositorio de rtm-docs; lo demás se ha manejado con repositorios aislados al team (ver Informe 2).*
 
 *Declaro que la información de este informe es veraz y que los commits listados son de mi autoría.*
 

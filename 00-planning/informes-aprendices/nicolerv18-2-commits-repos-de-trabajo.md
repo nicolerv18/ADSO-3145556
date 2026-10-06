@@ -1,7 +1,9 @@
 # Informe 2 — Commits en los repositorios en los que trabajaste
 
 **Periodo:** del 11 de agosto al 5 de octubre de 2026 (hora Colombia, UTC-5)
-**Repositorio principal de la ficha:** https://github.com/code-sena/ADSO-3145556
+**Repositorio principal de la ficha:** https://github.com/RentaMovil
+
+*El instructor ya fue invitado a la organizacion*
 
 | Campo | Valor |
 |---|---|
@@ -33,7 +35,7 @@
 
 - **Enlace del repositorio:** https://github.com/RentaMovil/RentaMovil
 - **Tipo:** Equipo RentaMovil / Frontend-app móvil
-- **Visibilidad:** Público (acceso de `ariel5253`: pendiente de confirmar manualmente en GitHub)
+- **Visibilidad:** Público (acceso de `ariel5253`)
 - **Total de commits en el periodo:** 32
 - **Qué hice (2 a 3 líneas):** Trabajo de frontend sobre temas, navegación y vistas de reservas/pagos; integré el flujo de notificaciones, ubicación y términos y condiciones; conecté la app a los servicios de reservas, rentas, seguros y notificaciones del booking, y corregí varios bugs de UI (navbar, modales, landing page, login, HomeAdmin).
 
@@ -76,7 +78,7 @@
 
 - **Enlace del repositorio:** https://github.com/RentaMovil/rtm-booking-reservation
 - **Tipo:** Equipo RentaMovil / Microservicio (Reservas)
-- **Visibilidad:** Privado (acceso de `ariel5253`: pendiente de confirmar manualmente en GitHub)
+- **Visibilidad:** Privado (acceso de `ariel5253`)
 - **Total de commits en el periodo:** 8
 - **Qué hice (2 a 3 líneas):** Construí el esqueleto del servicio de booking-reservation, corregí la configuración de JPA y las cuentas de administración, implementé la regla de que solo la sucursal de devolución puede modificarse en una reserva, agregué la recepción de eventos internos (paso de pago enviado y expiración más segura), y documenté el README del proyecto.
 
@@ -95,7 +97,7 @@
 
 - **Enlace del repositorio:** https://github.com/RentaMovil/rtm-booking-db
 - **Tipo:** Equipo RentaMovil / Base de datos
-- **Visibilidad:** Privado (acceso de `ariel5253`: pendiente de confirmar manualmente en GitHub)
+- **Visibilidad:** Privado (acceso de `ariel5253`)
 - **Total de commits en el periodo:** 3
 - **Qué hice (2 a 3 líneas):** Diseñé el esquema de la base de datos de booking (reservas, rentas, notificaciones y tipo de seguro), limpié archivos de changelog sueltos en el espejo de rollback y documenté el README del proyecto.
 
@@ -109,7 +111,7 @@
 
 - **Enlace del repositorio:** https://github.com/RentaMovil/rtm-iam
 - **Tipo:** Equipo RentaMovil / Microservicio (Identidad)
-- **Visibilidad:** Privado (acceso de `ariel5253`: pendiente de confirmar manualmente en GitHub)
+- **Visibilidad:** Privado (acceso de `ariel5253`)
 - **Total de commits en el periodo:** 1
 - **Qué hice (2 a 3 líneas):** Agregué el claim `personId` al token de acceso.
 
@@ -121,7 +123,7 @@
 
 - **Enlace del repositorio:** https://github.com/RentaMovil/rtm-api-gateway
 - **Tipo:** Equipo RentaMovil / API Gateway
-- **Visibilidad:** Privado (acceso de `ariel5253`: pendiente de confirmar manualmente en GitHub)
+- **Visibilidad:** Privado (acceso de `ariel5253`)
 - **Total de commits en el periodo:** 1
 - **Qué hice (2 a 3 líneas):** Corregí las rutas del gateway para la conexión con los demás servicios.
 
@@ -133,7 +135,7 @@
 
 - **Enlace del repositorio:** https://github.com/RentaMovil/rtm-fleet-maintenance
 - **Tipo:** Equipo RentaMovil / Microservicio (Mantenimiento)
-- **Visibilidad:** Privado (acceso de `ariel5253`: pendiente de confirmar manualmente en GitHub)
+- **Visibilidad:** Privado (acceso de `ariel5253`)
 - **Total de commits en el periodo:** 0
 - **Qué hice (2 a 3 líneas):** Sin commits tuyos registrados en este periodo.
 
@@ -145,7 +147,7 @@
 
 - **Enlace del repositorio:** https://github.com/RentaMovil/rtm-fleet-maintenance-db
 - **Tipo:** Equipo RentaMovil / Base de datos
-- **Visibilidad:** Privado (acceso de `ariel5253`: pendiente de confirmar manualmente en GitHub)
+- **Visibilidad:** Privado (acceso de `ariel5253`)
 - **Total de commits en el periodo:** 0
 - **Qué hice (2 a 3 líneas):** Sin commits tuyos registrados en este periodo.
 
@@ -157,7 +159,7 @@
 
 - **Enlace del repositorio:** https://github.com/RentaMovil/rtm-iam-db
 - **Tipo:** Equipo RentaMovil / Base de datos
-- **Visibilidad:** Privado (acceso de `ariel5253`: pendiente de confirmar manualmente en GitHub)
+- **Visibilidad:** Privado (acceso de `ariel5253`)
 - **Total de commits en el periodo:** 0
 - **Qué hice (2 a 3 líneas):** Sin commits tuyos registrados en este periodo.
 
@@ -178,8 +180,6 @@
 ## 4. Observaciones
 
 *Se estableció el periodo de tiempo entre el 11 de agosto y el 5 de octubre ya que los repositorios relacionados con base de datos y servicios empezaron a trabajarse después del 30 de septiembre.*
-
-*Nota de verificación: el `git fetch` solo pudo completarse en el repositorio público (`RentaMovil/RentaMovil`); en los repositorios privados no había credenciales de GitHub disponibles en el entorno donde se generó este informe, así que los conteos se basan en las copias locales existentes. Si se hicieron push/pull desde otra máquina después del 6 de octubre de 2026, los números podrían no reflejarlo.*
 
 *Declaro que la información de este informe es veraz y que los commits listados son de mi autoría.*
 
