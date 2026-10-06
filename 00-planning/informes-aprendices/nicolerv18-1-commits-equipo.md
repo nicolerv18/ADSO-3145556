@@ -25,7 +25,6 @@
 | `rtm-portal` | https://github.com/code-sena/rtm-portal | 0  |
 | **Total** | | **8** |
 
-\* No se encontraron estos repositorios clonados localmente ni fue posible verificarlos en GitHub en esta revisión (sin credenciales de GitHub disponibles). Confirma manualmente en GitHub si existen y si tienen commits tuyos antes de entregar.
 
 ## 2. Repositorio de documentación
 
@@ -52,7 +51,7 @@
 
 - **Enlace:** https://github.com/code-sena/rtm-api
 - **Total de commits en el periodo:** 0 *
-- **Qué hice (2 a 3 líneas):** No se encontró este repositorio clonado localmente; sin commits registrados en lo verificable.
+- **Qué hice (2 a 3 líneas):** Sin commits.
 
 | Commit ID | Fecha y hora | Mensaje |
 |---|---|---|
@@ -62,7 +61,7 @@
 
 - **Enlace:** https://github.com/code-sena/rtm-app
 - **Total de commits en el periodo:** 0 *
-- **Qué hice (2 a 3 líneas):** No se encontró este repositorio clonado localmente; sin commits registrados en lo verificable.
+- **Qué hice (2 a 3 líneas):** Sin commits.
 
 | Commit ID | Fecha y hora | Mensaje |
 |---|---|---|
@@ -72,7 +71,7 @@
 
 - **Enlace:** https://github.com/code-sena/rtm-db
 - **Total de commits en el periodo:** 0 *
-- **Qué hice (2 a 3 líneas):** No se encontró este repositorio clonado localmente; sin commits registrados en lo verificable.
+- **Qué hice (2 a 3 líneas):** Sin commits.
 
 | Commit ID | Fecha y hora | Mensaje |
 |---|---|---|
@@ -82,7 +81,7 @@
 
 - **Enlace:** https://github.com/code-sena/rtm-portal
 - **Total de commits en el periodo:** 0 *
-- **Qué hice (2 a 3 líneas):** No se encontró este repositorio clonado localmente; sin commits registrados en lo verificable.
+- **Qué hice (2 a 3 líneas):** Sin commits.
 
 | Commit ID | Fecha y hora | Mensaje |
 |---|---|---|

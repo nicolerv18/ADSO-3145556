@@ -137,7 +137,7 @@
 - **Tipo:** Equipo RentaMovil / Microservicio (Mantenimiento)
 - **Visibilidad:** Privado (acceso de `ariel5253`)
 - **Total de commits en el periodo:** 0
-- **Qué hice (2 a 3 líneas):** Sin commits tuyos registrados en este periodo.
+- **Qué hice (2 a 3 líneas):** Sin commits registrados en este periodo.
 
 | Commit ID | Fecha y hora | Mensaje |
 |---|---|---|
@@ -149,7 +149,7 @@
 - **Tipo:** Equipo RentaMovil / Base de datos
 - **Visibilidad:** Privado (acceso de `ariel5253`)
 - **Total de commits en el periodo:** 0
-- **Qué hice (2 a 3 líneas):** Sin commits tuyos registrados en este periodo.
+- **Qué hice (2 a 3 líneas):** Sin commits registrados en este periodo.
 
 | Commit ID | Fecha y hora | Mensaje |
 |---|---|---|
@@ -161,7 +161,7 @@
 - **Tipo:** Equipo RentaMovil / Base de datos
 - **Visibilidad:** Privado (acceso de `ariel5253`)
 - **Total de commits en el periodo:** 0
-- **Qué hice (2 a 3 líneas):** Sin commits tuyos registrados en este periodo.
+- **Qué hice (2 a 3 líneas):** Sin commits registrados en este periodo.
 
 | Commit ID | Fecha y hora | Mensaje |
 |---|---|---|
